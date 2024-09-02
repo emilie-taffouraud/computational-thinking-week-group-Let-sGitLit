@@ -1,4 +1,4 @@
-import sophia.py, emilie_print_name_bitch.py, elnarochka.py, ireneblabla.py, annasname.py
+import sophiasname.py, emilie_print_name.py, elnarochka.py, ireneblabla.py, annasname.py
 
 
 
