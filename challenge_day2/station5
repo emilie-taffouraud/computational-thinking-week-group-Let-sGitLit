@@ -1,2 +1,7 @@
-def solution_station_5(n):
-  n
+def solution_station_5(student_name):
+    students = {
+        
+}
+
+    if learning_team in students:
+        return students[learning_team]
