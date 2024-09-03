@@ -1,5 +1,4 @@
-
-
+def get_learning_team(student_name):
 students = [
     {"first_name": "Aya", "learning_team": 5},
     {"first_name": "Bissola", "learning_team": 1},
@@ -109,4 +108,8 @@ students = [
     {"first_name": "Meng", "learning_team": 1},
     {"first_name": "Fleming", "learning_team": 5},
 ]
+
+    for student in students:
+        if student["first_name"] == student_name:
+            return student["learning_team"]
 
