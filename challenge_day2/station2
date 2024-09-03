@@ -1,6 +1,6 @@
 import datetime
 
-def get_weekday_in_chinese(year, month, day):
+def solution_station_2(year, month, day):
     
     weekday_translation = {
         "Monday": "月曜日",
@@ -18,6 +18,3 @@ def get_weekday_in_chinese(year, month, day):
     weekday_name_chinese = weekday_translation[weekday_name]
     return weekday_name_chinese
 
-
-chinese_weekday = get_weekday_in_chinese(2024, 9, 3)
-print(chinese_weekday)
