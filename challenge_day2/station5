@@ -1,4 +1,4 @@
-def get_learning_team(student_name):
+def solution_station_7(student_name):
 students = [
     {"first_name": "Aya", "learning_team": 5},
     {"first_name": "Bissola", "learning_team": 1},
