@@ -18,3 +18,4 @@ def solution_station_2(year, month, day):
     weekday_name_chinese = weekday_translation[weekday_name]
     return weekday_name_chinese
 
+print (weekday_name_chinese)
