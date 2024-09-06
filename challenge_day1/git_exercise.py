@@ -10,4 +10,4 @@ def team_names():
   print(annasname.get_name())
 
 if __name__ == "__main__":
-    team_introduction()
+    team_names()
