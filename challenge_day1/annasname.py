@@ -1,2 +1,2 @@
-def anna_name():
-  Print('Anna!!!')
+def get_name():
+  return 'Anna!!!'
