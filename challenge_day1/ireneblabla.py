@@ -1,2 +1,2 @@
-def irene_name():
-  print ("ireneblabla")
+def get_name():
+  return "ireneblabla"
