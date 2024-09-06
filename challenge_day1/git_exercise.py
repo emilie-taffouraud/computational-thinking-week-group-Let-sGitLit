@@ -1,4 +1,4 @@
-import sophia_name, emilie_print_name, elnarochka, ireneblabla, annasname
+import sophiasname, emilie_print_name, elnarochka, ireneblabla, annasname
 
 def team_names():
   print("This is Team Let's Git Lit. We are: ")
